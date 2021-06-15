@@ -1,0 +1,17 @@
+{
+  "profiles": [
+    {
+      "id": 1,
+      "name": "Bryan",
+      "email": "bryan@greenway.com",
+      "savedCityId": []
+    }
+  ],
+  "locations": [
+    {
+      "id": 1,
+      "cityName": "Nashville",
+      "zipcode": []
+    }
+  ]
+}
