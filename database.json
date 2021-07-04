@@ -1,17 +1,68 @@
 {
   "profiles": [
     {
-      "id": 1,
-      "name": "Bryan",
+      "name": "bryan",
       "email": "bryan@greenway.com",
-      "savedCityId": []
+      "id": 1,
+      "savedCityId": [1, 2]
+    },
+    {
+      "email": "cody@jones.com",
+      "name": "cody",
+      "id": 2,
+      "savedCityId": [1]
+    },
+    {
+      "email": "shawn@barron.com",
+      "name": "shawn",
+      "id": 3
+    },
+    {
+      "email": "michael@jenkins.com",
+      "name": "michael",
+      "id": 4
+    },
+    {
+      "email": "key@nam.com",
+      "name": "key",
+      "id": 5
+    },
+    {
+      "email": "roger@greenway.com",
+      "name": "roger",
+      "id": 6,
+      "savedCityId": [1]
     }
   ],
   "locations": [
     {
       "id": 1,
-      "cityName": "Nashville",
-      "zipcode": []
+      "name": "Nashville",
+      "zipcode": "37064"
+    },
+    {
+      "name": "Franklin",
+      "zipcode": "37064",
+      "id": 2
+    },
+    {
+      "name": "Hot Springs",
+      "zipcode": "",
+      "id": 3
+    },
+    {
+      "name": "Orlando",
+      "zipcode": "",
+      "id": 4
+    },
+    {
+      "name": "Dallas",
+      "zipcode": "",
+      "id": 5
+    },
+    {
+      "name": "Houston",
+      "id": 6
     }
   ]
 }
